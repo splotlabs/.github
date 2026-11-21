@@ -1,6 +1,6 @@
 # Contributing to SplotLabs projects
 
-> NOT ACTIVE YET. The contribution terms and the privacy notice are approved (version 2.0), but no signing service is installed. Until it is installed and tested, copyrightable contributions from other people are on hold.
+> The contribution terms and the privacy notice are approved (version 2.0) and CLA Assistant is installed. The acceptance process has not been tested with an outside contributor yet. Until it has, the maintainer checks the acceptance record of every contribution from another person by hand before merge.
 
 SplotLabs and splot are project names used by **Bartosz Tomczyk**, the maintainer. They are not a company. The projects are source-available. Each repository has its own license and third-party notices.
 

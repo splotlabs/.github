@@ -14,7 +14,7 @@ picture.
 | File                                                 | Purpose                                                                    |
 | ---------------------------------------------------- | -------------------------------------------------------------------------- |
 | [CONTRIBUTING.md](CONTRIBUTING.md)                   | Contribution policy. GitHub shows it in repositories without their own.    |
-| [CLA.md](CLA.md)                                     | SplotLabs Contribution Terms, based on MIT-0. Version 2.0. Not active yet. |
+| [CLA.md](CLA.md)                                     | SplotLabs Contribution Terms, based on MIT-0. Version 2.0.                 |
 | [LICENSES/MIT-0.txt](LICENSES/MIT-0.txt)             | Standard MIT No Attribution text that the contribution terms apply.        |
 | [CLA-PRIVACY.md](CLA-PRIVACY.md)                     | Privacy notice for acceptance records. Version 2.0.                        |
 | [cla-assistant/metadata](cla-assistant/metadata)     | The three form fields shown on the signing page. Source for the Gist file. |
