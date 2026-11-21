@@ -1,18 +1,20 @@
 ## Change and validation
 
-Describe the change and the tests run. Keep any repository-specific testing and specification-reference sections.
+Describe the change and the tests you ran. Keep any repository-specific testing and specification-reference sections.
 
 ## Contribution rights
 
-- [ ] I have identified the actual authors/co-authors of the submitted material and any employer or client ownership.
-- [ ] I have listed incorporated third-party code, assets, datasets or copied specification material, their origins and licenses, or stated that none was incorporated.
-- [ ] I understand that the CLA grants Bartosz Tomczyk non-exclusive rights for alternative commercial licensing and possible future public-license changes; I have followed the CLA Assistant signing request where applicable.
-- [ ] I have a valid permission for my use of Splot while preparing this change; a CLA signature is not itself a commercial-use permission.
+For the maintainer's own work with no third-party material, write `Maintainer's own work` and remove the list.
 
-Authors / co-authors:
+- [ ] My original material in this pull request is submitted under the [SplotLabs Contribution Terms](https://github.com/splotlabs/.github/blob/main/CLA.md) (MIT-0). I understand that MIT-0 lets anyone reuse it, including commercially.
+- [ ] Every author and co-author is named below. Each has accepted the terms or will accept them before merge.
+- [ ] No employer or client owns this work, or its authorization is arranged.
+- [ ] Third-party code, assets, data and copied specification text are listed below with origin and license, or none is included.
+- [ ] I know of no patent of mine or my employer's that this change necessarily infringes, or I have told the maintainer.
+- [ ] My own use of the software while preparing this change is permitted by its license.
 
-Ownership or authorization requiring private review:
+Authors and co-authors:
 
-Third-party material and relevant provenance / AI-assisted generation:
+Third-party material and AI assistance:
 
-Do not post confidential contracts, signatures, private email addresses, identity documents or patent applications here. Contact bartekplus@gmail.com for private clearance. These checkboxes are declarations for review, not the CLA signature and not proof of all necessary rights.
+These boxes are declarations for review. They are not acceptance of the terms and they do not prove ownership. Do not post contracts, private email addresses, identity documents or patent applications here; write to bartekplus@gmail.com.

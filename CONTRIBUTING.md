@@ -1,33 +1,45 @@
 # Contributing to SplotLabs projects
 
-> DEPLOYMENT DRAFT: publish as an active policy only after the CLA, privacy notice and signing service have been approved and enabled.
+> DEPLOYMENT DRAFT. The contribution terms are not approved yet and no signing service is installed. Until both are in place, copyrightable contributions from other people are on hold.
 
-SplotLabs and splot are project names used by **Bartosz Tomczyk**, not separate legal entities. The software is source-available; check each repository's own license and third-party notices.
+SplotLabs and splot are project names used by **Bartosz Tomczyk**, the maintainer. They are not a company. The projects are source-available. Each repository has its own license and third-party notices.
 
-## Before submitting a change
+## Before you submit
 
-Use the repository's development and testing instructions. Explain the problem, include relevant tests, and identify external code, assets, datasets, specification excerpts or generated material. Preserve existing notices. Disclose all actual authors and any employer or client ownership; do not assume the person opening a PR owns every change.
+Use the repository's development and testing instructions. Explain the problem and include tests. Name every author and co-author, and any employer or client that owns part of the change. List third-party code, assets, data, copied specification text and AI-generated material, with origin and license. Keep existing notices.
 
-## Contributor License Agreement
+## How your contribution is licensed
 
-For copyrightable Contributions, read the [Individual CLA](https://github.com/splotlabs/.github/blob/main/CLA.md) and [privacy notice](https://github.com/splotlabs/.github/blob/main/CLA-PRIVACY.md).
+Contributions from other people are licensed by their authors under the unmodified **MIT No Attribution License (MIT-0)**, through the [SplotLabs Contribution Terms](https://github.com/splotlabs/.github/blob/main/CLA.md). Read them and the [privacy notice](https://github.com/splotlabs/.github/blob/main/CLA-PRIVACY.md) first.
 
-You retain your copyright. The CLA gives **Bartosz Tomczyk** additional, non-exclusive rights to use, modify and sublicense your contribution, including under alternative commercial terms and future public licenses. It does not promise that the project will always remain under its current license or that contributors will receive commercial revenue. Patent permissions and third-party material require separate review.
+- You keep your copyright.
+- MIT-0 gives its permission to everyone who receives your contribution, not only to the maintainer. Anyone may reuse it, including commercially, without attribution and without payment.
+- It covers only your own original material. It does not change the license of the file you edited, of the project or of third-party material, and it gives you no commercial license for the project.
+- The maintainer's own work stays under the project's license, currently PolyForm Noncommercial 1.0.0 with commercial licenses negotiated separately.
 
-When CLA Assistant requests a signature on your PR, follow its signing link, authenticate using your own GitHub account, read the displayed agreement and accept it yourself. **Do not use the comment-signing instructions for CLA Assistant Lite.** The hosted application uses its signing page.
+What decides is who owns the material, not who opened the pull request. A pull request opened by the maintainer or by a bot can contain another person's work, and then that person's acceptance is needed.
 
-The same accepted agreement is intended to cover later identified submissions across the covered projects. The service's organization configuration and version matching determine whether it asks you to sign again. A revised agreement may require new acceptance. Contact the maintainer if the status is wrong; do not repeatedly submit personal data in PR comments.
+## Acceptance and the merge gate
 
-A green status is only one check. The maintainer also verifies co-authors, material copied from elsewhere, and organizational ownership. A `Signed-off-by` line or PR checkbox alone does not grant the alternative licensing rights required here.
+**A copyrightable contribution from another person is not merged until every rights holder (each author, co-author and owning employer or client) has a recorded acceptance of the approved terms that covers that contribution.**
 
-## Employer-owned and historical contributions
+1. CLA Assistant comments on your pull request with a signing link. Sign in with your own GitHub account, read the terms and accept them yourself. Nobody can accept for you. Do not use the comment-signing method of CLA Assistant Lite; the hosted service uses its signing page.
+2. In the form, list the pull requests you already have open in SplotLabs projects. Acceptance covers those as they stand. An earlier pull request that you did not list, or one opened before the terms were published in that repository, needs your confirmation in a comment on it before merge, even if its status is green.
+3. Later pull requests and commits are licensed under the version you accepted, when you submit them. A new version of the terms asks for a new acceptance.
+4. If the service is unavailable or not installed, the merge waits. The maintainer may instead accept a comment on the pull request, from the rights holder's own account, that names the commit and the version of the terms. He reads it himself; it is not a bot command.
 
-If another person or organization owns your work, contact **bartekplus@gmail.com** before merge. An authorized representative may need to execute the organizational CLA. Being an organization member or committing with a work email is not sufficient authorization.
+A green status, a ticked box in the pull-request template, a `Signed-off-by` line and a link in a README are not acceptance. The maintainer also checks by hand the co-authors (including `Co-authored-by` lines, which the service does not check), copied material and organizational ownership.
 
-Earlier contributions are not automatically covered by a new signature. The maintainer may request a separate confirmation identifying the old PRs or commits.
+## Employers, clients and co-authors
 
-## Use of the software while contributing
+If someone else owns your work, write to **bartekplus@gmail.com** before merge. Your own acceptance does not show that the owner agreed. An authorized person must confirm it, and that record is kept privately. Organization membership or a work email address is not authorization. No account, member or bot is exempt from these terms without a recorded rights basis for the specific material.
 
-Signing the CLA is not a commercial-use license. Development or testing outside the repository's public license requires separate permission. For employer-sponsored development, commercial evaluation, a production pipeline or a hosted service, assess the actual permitted purposes before use and obtain permission where they do not cover your use. There is no additional automatic evaluation period or contribution exception created by this policy.
+## Patents and other known rights
 
-Bug reports and ideas without a proposed copyrightable contribution do not normally require a CLA. Do not attach proprietary samples or personal data to public issues. Report security-sensitive material privately to **bartekplus@gmail.com**, not in a public issue or pull request.
+MIT-0 has no express patent license. You do not have to search for patents. If you know of a patent or patent application, yours or your employer's, that your change would necessarily infringe, or of another third-party right in it, say so before merge, privately if needed. The affected material stays unmerged until one of these is recorded: a permission, an existing permission shown to apply, a reasoned finding that the right is not involved, or a replacement.
+
+## Using the software while contributing
+
+Accepting the terms is not a commercial-use license. Development or testing outside the repository's public license needs separate permission.
+
+Bug reports and ideas without submitted material need no acceptance. Do not attach proprietary samples or personal data to public issues. Report security-sensitive material privately to **bartekplus@gmail.com**.

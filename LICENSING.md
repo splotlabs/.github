@@ -2,9 +2,19 @@
 
 ## Who is the licensor?
 
-**Bartosz Tomczyk** maintains the projects under the names **SplotLabs** and **splot**. Neither name denotes a separate legal entity in this project. Licensing contact: **bartekplus@gmail.com**.
+**Bartosz Tomczyk** maintains the projects under the names **SplotLabs** and **splot**. Neither name denotes a separate legal entity. Licensing contact: **bartekplus@gmail.com**.
 
-Bartosz licenses material that he owns or is authorized to license. Contributors and third parties retain their rights. A copyright notice naming Bartosz is not a claim that he authored or owns every dependency, contribution or asset in a repository.
+Bartosz licenses material that he owns or is authorized to license. Contributors and third parties keep their rights. A copyright notice naming Bartosz is not a claim that he authored or owns every dependency, contribution or asset in a repository.
+
+## Three kinds of material
+
+| Material                                               | Terms                                                                                                              | Granted by                         |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
+| Bartosz Tomczyk's own original work                    | The repository's declared license, currently PolyForm Noncommercial 1.0.0. Commercial licenses are negotiated separately. | Bartosz Tomczyk                    |
+| Contributions from other people                        | MIT No Attribution (MIT-0), for the contributor's own identifiable material only                                   | The contributor, to every recipient |
+| Third-party dependencies, specifications, media, fonts | Their own terms                                                                                                    | Their owners                       |
+
+No repository or package is offered under a choice of PolyForm Noncommercial or MIT-0. An MIT-0 contribution does not change the license of the file it touches, of the surrounding code or of the project. Which terms apply follows from who owns the material, not from who opened the pull request.
 
 ## Public software terms
 
@@ -18,11 +28,15 @@ Commercial operations outside those permissions require an alternative license f
 
 No rights are claimed in a user's original video simply because Splot processes it. That does not excuse unlicensed use of the software or supply rights in someone else's content or patents.
 
-## Contributions and future licenses
+## Contributions
 
-A non-exclusive CLA supplies incoming copyright permissions; it is separate from the public license. After valid rights clearance, Bartosz may offer covered material under alternative commercial terms or future public licenses. This does not revoke rights already validly granted for previous versions, eliminate mandatory law, or relicense third-party code without permission.
+Other people contribute under the [SplotLabs Contribution Terms](https://github.com/splotlabs/.github/blob/main/CLA.md), which apply the unmodified MIT-0 license to the contributor's own material. The contributor keeps the copyright.
 
-A switch to GPL, LGPL or another open-source license would allow commercial uses under that license and could therefore change the business model. No such change is made by adopting the CLA.
+MIT-0 is a public permission. Everyone who receives a contribution may reuse that contribution, including commercially, without a license from Bartosz. This is an accepted consequence of the model. It applies to the contributor's independent material, not to the project around it.
+
+Because MIT-0 allows sublicensing, Bartosz can include accepted contributions in releases under the project's license, under commercial licenses and under other licenses later. A later change does not withdraw permissions already validly granted, under MIT-0 or under an earlier public license. It also does not relicense third-party material or material with unresolved rights.
+
+A permission exists only where a rights holder actually granted it. A link to the terms, a ticked box in a pull request or a passing CI run is not a grant. MIT-0 contains no express patent license; known patent rights are handled as the contribution policy describes.
 
 ## Distribution and dependencies
 
