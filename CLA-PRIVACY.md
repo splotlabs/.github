@@ -1,6 +1,6 @@
 # Privacy notice for contribution acceptance records
 
-**DRAFT — AWAITING THE MAINTAINER'S APPROVAL.** Version 2.0-draft.2, 21 November 2026. No acceptance records are collected under this draft. This notice is not a consent form and not a license grant.
+**Version 2.0 — 21 November 2026.** This notice is not a consent form and not a license grant.
 
 ## Controller and contact
 
