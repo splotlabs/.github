@@ -1,0 +1,22 @@
+{
+  "name": {
+    "title": "Full legal name",
+    "type": "string",
+    "githubKey": "name",
+    "required": true,
+    "description": "The person accepting. Correct the prefilled display name if it is not your legal name. See the privacy notice before accepting."
+  },
+  "email": {
+    "title": "Contact email",
+    "type": "string",
+    "githubKey": "email",
+    "required": true,
+    "description": "For administering your acceptance, not for marketing. Do not enter a postal address or an ID number."
+  },
+  "pullRequests": {
+    "title": "Pull requests already open",
+    "type": "textarea",
+    "required": true,
+    "description": "List the pull requests you already have open in SplotLabs projects that this acceptance covers, one URL per line, or write 'none'. A pull request you leave out is not licensed by this acceptance."
+  }
+}
