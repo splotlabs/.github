@@ -1,8 +1,6 @@
 # SplotLabs Contribution Terms (MIT-0)
 
-**Version 2.0-draft.1 — 21 November 2026**
-
-> DRAFT — NOT ACTIVE. These terms are not connected to a signing service and are not an invitation to sign. They become active only when Bartosz Tomczyk publishes an approved version without this notice.
+**Version 2.0 — 21 November 2026**
 
 These terms set the license under which other people contribute to SplotLabs projects. The license is the standard MIT No Attribution License (MIT-0), unchanged. Its full text is in section 8.
 

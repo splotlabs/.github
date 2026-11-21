@@ -1,6 +1,6 @@
 # Contributing to SplotLabs projects
 
-> DEPLOYMENT DRAFT. The contribution terms are not approved yet and no signing service is installed. Until both are in place, copyrightable contributions from other people are on hold.
+> NOT ACTIVE YET. The contribution terms are approved (version 2.0), but the privacy notice is still a draft and no signing service is installed. Until both are in place, copyrightable contributions from other people are on hold.
 
 SplotLabs and splot are project names used by **Bartosz Tomczyk**, the maintainer. They are not a company. The projects are source-available. Each repository has its own license and third-party notices.
 
