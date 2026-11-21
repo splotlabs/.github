@@ -3,7 +3,7 @@
 **Maintainer: Bartosz Tomczyk, a natural person.**
 **Status: CLA Assistant installed and linked on 21 November 2026. Its `license/cla` status is not a required check yet, and the acceptance scenarios are untested.**
 
-These are the repositories to which the [SplotLabs Contribution Terms](https://github.com/splotlabs/.github/blob/main/CLA.md) are proposed to apply.
+These are the repositories to which the [SplotLabs Contribution Terms](https://github.com/splotlabs/.github/blob/main/CLA.md) apply.
 
 | Repository               | Contributions accepted to                                     | Signing and enforcement status     |
 | ------------------------ | ------------------------------------------------------------- | ---------------------------------- |

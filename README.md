@@ -20,7 +20,7 @@ picture.
 | [cla-assistant/metadata](cla-assistant/metadata)     | The three form fields shown on the signing page. Source for the Gist file. |
 | [LICENSING.md](LICENSING.md)                         | Who the licensor is and which terms apply to which material.               |
 | [COMMERCIAL.md](COMMERCIAL.md)                       | Alternative commercial licensing.                                          |
-| [COVERED-PROJECTS.md](COVERED-PROJECTS.md)           | Repositories the contribution terms are proposed to cover.                 |
+| [COVERED-PROJECTS.md](COVERED-PROJECTS.md)           | Repositories the contribution terms cover.                                 |
 | [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) | Default pull-request template.                                             |
 
 `LICENSES/MIT-0.txt` applies only to contributions that their authors license under the
