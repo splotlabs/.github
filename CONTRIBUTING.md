@@ -1,6 +1,8 @@
 # Contributing to SplotLabs projects
 
-> The contribution terms and the privacy notice are approved (version 2.0) and CLA Assistant is installed. The acceptance process has not been tested with an outside contributor yet. Until it has, the maintainer checks the acceptance record of every contribution from another person by hand before merge.
+> The approved contribution terms are version 2.0. The approved privacy notice is version 2.1.
+> The maintainer uses CLA Assistant. The maintainer has not yet tested the acceptance process with an outside contributor.
+> Until this test is complete, the maintainer manually checks the acceptance record for each contribution from another person before merge.
 
 SplotLabs and splot are project names used by **Bartosz Tomczyk**, the maintainer. They are not a company. The projects are source-available. Each repository has its own license and third-party notices.
 
