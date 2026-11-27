@@ -12,6 +12,8 @@ These are the repositories to which the [SplotLabs Contribution Terms](https://g
 | `splotlabs/website`      | First-party website source, copy and assets                   | LINKED / REQUIRED / NOT TESTED |
 | `splotlabs/.github`      | First-party profile, policies and contribution infrastructure | LINKED / REQUIRED / NOT TESTED |
 
+`splotlabs/benchmarks` is licensed under the MIT License and is not covered by these terms. Outside contributions to it are accepted under its MIT License (the license of the contribution is the license of the repository), with no signing step.
+
 This register does not change any repository's software license, does not make any repository MIT-0, claims no ownership of third-party material and does not reach back to earlier contributions. The terms apply to a contribution only where its repository is listed here and published the terms when the contribution was submitted, or where the rights holder confirmed the contribution expressly.
 
 Third-party mirrors, forks and specification copies inside a listed repository are not places for contributions under these terms.

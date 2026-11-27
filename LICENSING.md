@@ -10,7 +10,7 @@ Bartosz licenses material that he owns or is authorized to license. Contributors
 
 | Material                                               | Terms                                                                                                              | Granted by                         |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
-| Bartosz Tomczyk's own original work                    | The repository's declared license, currently PolyForm Noncommercial 1.0.0. Commercial licenses are negotiated separately. | Bartosz Tomczyk                    |
+| Bartosz Tomczyk's own original work                    | The repository's declared license: PolyForm Noncommercial 1.0.0 for splot, splot-studio and website; the MIT License for benchmarks. Commercial licenses for the PolyForm repositories are negotiated separately. | Bartosz Tomczyk                    |
 | Contributions from other people                        | MIT No Attribution (MIT-0), for the contributor's own identifiable material only                                   | The contributor, to every recipient |
 | Third-party dependencies, specifications, media, fonts | Their own terms                                                                                                    | Their owners                       |
 
